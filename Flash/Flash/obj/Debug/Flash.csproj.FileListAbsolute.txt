@@ -1,0 +1,10 @@
+C:\Users\willo\OneDrive\Documents\Flash NEA\Flash\Flash\bin\Debug\Flash.exe.config
+C:\Users\willo\OneDrive\Documents\Flash NEA\Flash\Flash\bin\Debug\Flash.exe
+C:\Users\willo\OneDrive\Documents\Flash NEA\Flash\Flash\bin\Debug\Flash.pdb
+C:\Users\willo\OneDrive\Documents\Flash NEA\Flash\Flash\bin\Debug\Newtonsoft.Json.dll
+C:\Users\willo\OneDrive\Documents\Flash NEA\Flash\Flash\bin\Debug\Newtonsoft.Json.xml
+C:\Users\willo\OneDrive\Documents\Flash NEA\Flash\Flash\obj\Debug\Flash.csproj.AssemblyReference.cache
+C:\Users\willo\OneDrive\Documents\Flash NEA\Flash\Flash\obj\Debug\Flash.csproj.CoreCompileInputs.cache
+C:\Users\willo\OneDrive\Documents\Flash NEA\Flash\Flash\obj\Debug\Flash.csproj.Up2Date
+C:\Users\willo\OneDrive\Documents\Flash NEA\Flash\Flash\obj\Debug\Flash.exe
+C:\Users\willo\OneDrive\Documents\Flash NEA\Flash\Flash\obj\Debug\Flash.pdb

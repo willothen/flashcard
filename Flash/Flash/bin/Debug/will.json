@@ -1,0 +1,75 @@
+{
+  "Username": "will",
+  "Decks": [
+    {
+      "Name": "math",
+      "Flashcards": [
+        {
+          "Question": "1",
+          "Answer": "1",
+          "Difficulty": 2,
+          "LastReviewed": "2024-12-16T23:19:48.3967923+00:00",
+          "NextReview": "2024-12-22T23:19:48.3967923+00:00",
+          "EasinessFactor": 2.2199999999999998,
+          "Interval": 6,
+          "Repetitions": 2
+        },
+        {
+          "Question": "2",
+          "Answer": "2",
+          "Difficulty": 1,
+          "LastReviewed": "2024-12-16T23:19:53.4366086+00:00",
+          "NextReview": "2024-12-17T23:19:53.4366086+00:00",
+          "EasinessFactor": 2.06,
+          "Interval": 1,
+          "Repetitions": 1
+        },
+        {
+          "Question": "3",
+          "Answer": "3",
+          "Difficulty": 3,
+          "LastReviewed": "2024-12-16T23:19:57.5609128+00:00",
+          "NextReview": "2024-12-17T23:19:57.5609128+00:00",
+          "EasinessFactor": 2.06,
+          "Interval": 1,
+          "Repetitions": 0
+        },
+        {
+          "Question": "4",
+          "Answer": "4",
+          "Difficulty": 2,
+          "LastReviewed": "2024-12-16T23:19:59.6682691+00:00",
+          "NextReview": "2024-12-17T23:19:59.6682691+00:00",
+          "EasinessFactor": 1.82,
+          "Interval": 1,
+          "Repetitions": 1
+        },
+        {
+          "Question": "5",
+          "Answer": "5",
+          "Difficulty": 3,
+          "LastReviewed": "2024-12-16T23:20:01.6380922+00:00",
+          "NextReview": "2024-12-17T23:20:01.6380922+00:00",
+          "EasinessFactor": 2.06,
+          "Interval": 1,
+          "Repetitions": 0
+        }
+      ],
+      "TotalReviewed": 10,
+      "EasyCount": 3,
+      "MediumCount": 3,
+      "HardCount": 4,
+      "MasteryPercentage": 60.0
+    }
+  ],
+  "Stats": {
+    "TotalCardsReviewed": 21,
+    "TotalEasy": 7,
+    "TotalMedium": 6,
+    "TotalHard": 8,
+    "TotalTimeSpent": 14,
+    "CurrentStreak": 1,
+    "LongestStreak": 1,
+    "LastRevisionDate": "2024-12-16T00:00:00+00:00"
+  }
+}
